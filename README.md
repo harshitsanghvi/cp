@@ -1,1 +1,1 @@
-# leetcode
+# Repository used to practice coding
