@@ -1,1 +1,1 @@
-# Repository used to practice coding
+# Repository for practice coding
